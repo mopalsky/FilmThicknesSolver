@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.H": "cpp",
+        "interSmoothFoam.C": "cpp",
+        "waterChtInterBoilCondFoam.C": "cpp"
+    }
+}

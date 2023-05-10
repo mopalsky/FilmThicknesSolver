@@ -1,0 +1,3 @@
+interSmoothFoam.C
+
+EXE = $(FOAM_APPBIN)/interSmoothFoam

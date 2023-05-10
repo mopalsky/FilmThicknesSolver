@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "*.H": "cpp",
+        "smoothedInterfaceProperties.C": "cpp",
+        "interSmoothFoam.C": "cpp",
+        "*.tcc": "c",
+        "phaseChangeTwoPhaseMixture.C": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "regex": "cpp",
+        "waterChtInterBoilCondFoam.C": "cpp",
+        "ostream": "cpp",
+        "functional": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "vector": "cpp",
+        "fvmSup.C": "cpp"
+    }
+}
